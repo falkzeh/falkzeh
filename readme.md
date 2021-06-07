@@ -10,10 +10,9 @@
 ---
 ### 🌱 I’m a big believer in lifelong learning and always keen to pick up new tools and technologies!
 ---
-</br>
 
 ## 🔧 Currently specialising myself in:
-<center>
+<p align="center">
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=macos&logoColor=white&color=2bbc8a)
@@ -50,17 +49,16 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=2bbc8a) </br>
 
-</center>
+</p>
 
 ### Other languages and tools I'm using from time to time:
-<center>
+<p align="center">
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Excel-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google&logoColor=white&color=2bbc8a)
 
-</center>
-<br>
+</p>
 
 ## 📖 Also currently learning more about...
 * Programming Language [Lua](https://www.lua.org/) and the [Löve Framework](https://love2d.org/) 👾

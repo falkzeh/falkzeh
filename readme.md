@@ -62,5 +62,6 @@
 
 ## 📖 Also currently learning more about...
 * Programming Language [Lua](https://www.lua.org/) and the [Löve Framework](https://love2d.org/) 👾
+* Portuguese 🇵🇹 
 * [Streamlit](https://streamlit.io/)
 * [Prefect](https://www.prefect.io/)

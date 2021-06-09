@@ -65,3 +65,4 @@
 * Portuguese 🇵🇹 
 * [Streamlit](https://streamlit.io/)
 * [Prefect](https://www.prefect.io/)
+* [dbt](https://docs.getdbt.com/)

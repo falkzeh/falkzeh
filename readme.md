@@ -21,7 +21,6 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-SH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 </br>
 
 ![](https://img.shields.io/badge/SQL-Snowflake-informational?style=for-the-badge&logo=snowflake&logoColor=white&color=2bbc8a)

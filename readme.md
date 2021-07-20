@@ -32,7 +32,7 @@
 ## 📖 Currently learning more about...
 * Portuguese 🇵🇹 
 * [Golang](https://golang.org/) ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
-* [dbt](https://docs.getdbt.com/)
+* [dbt](https://docs.getdbt.com/) ![](https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=FF694B)
 * [Lua](https://www.lua.org/) and the [Löve Framework](https://love2d.org/) 👾
 
 ## 📈 Stats:

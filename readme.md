@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Shell-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
 
 ## 🔧 Tools:
 * ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
@@ -28,10 +26,12 @@
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=FF4B4B)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=E97627)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
 
 ## 📖 Currently learning more about...
 * Portuguese 🇵🇹 
-* [Scala](https://www.scala-lang.org/)
+* [Golang](https://golang.org/)
 * [dbt](https://docs.getdbt.com/)
 * [Lua](https://www.lua.org/) and the [Löve Framework](https://love2d.org/) 👾
 

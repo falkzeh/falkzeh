@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Prefect-informational?style=flat&logo=Prefect&logoColor=white&color=0082C9)
 ![](https://img.shields.io/badge/Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
+![](https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=FF694B)
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=FF4B4B)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=E97627)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F37626)
@@ -32,8 +32,7 @@
 ## 📖 Currently learning more about...
 * Portuguese 🇵🇹 
 * [Golang](https://golang.org/) ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
-* [dbt](https://docs.getdbt.com/) ![](https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=FF694B)
-* [Lua](https://www.lua.org/) and the [Löve Framework](https://love2d.org/) 👾
+* [Solidity](https://docs.soliditylang.org/) ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
 
 ## 📈 Stats:
 * [![GitHub stats](https://github-readme-stats.vercel.app/api?username=falkzeh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falkzeh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

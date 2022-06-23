@@ -32,7 +32,6 @@
 ## 📖 Currently learning more about...
 * Portuguese 🇵🇹 
 * [Golang](https://golang.org/) ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
-* [Solidity](https://docs.soliditylang.org/) ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
 
 ## 📈 Stats:
 * [![GitHub stats](https://github-readme-stats.vercel.app/api?username=falkzeh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falkzeh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

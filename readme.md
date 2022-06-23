@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Prefect-informational?style=flat&logo=Prefect&logoColor=white&color=0082C9)
 ![](https://img.shields.io/badge/Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=7B42BC)
 ![](https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=FF694B)
 ![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=FF4B4B)
 ![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=E97627)

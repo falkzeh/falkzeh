@@ -1,7 +1,8 @@
 ## Hello, I'm Falk!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falk-zeh-13b908104/)
-[![Mail](https://img.shields.io/badge/Mail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mail@falkzeh.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falkzeh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falk.zeh15@gmail.com)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@codiefz)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/285637726118871041/)
 
 ---
@@ -31,8 +32,8 @@
 
 ## 📖 Currently learning more about...
 * Portuguese 🇵🇹 
-* [Golang](https://golang.org/) ![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
-* [Solidity](https://docs.soliditylang.org/) ![](https://img.shields.io/badge/Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
+* Embedded Systems and Robotics
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📈 Stats:
 * [![GitHub stats](https://github-readme-stats.vercel.app/api?username=falkzeh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falkzeh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

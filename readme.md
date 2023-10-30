@@ -4,6 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falk.zeh15@gmail.com)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://techhub.social/@codiefz)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/285637726118871041/)
+[![Printables](https://img.shields.io/badge/printables-FA6831.svg?&style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@codiefz_1240203)
 
 ---
 ### 🌱 I’m a big believer in lifelong learning and always keen to pick up new tools and technologies!
